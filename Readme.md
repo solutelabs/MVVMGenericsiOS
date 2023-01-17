@@ -4,20 +4,20 @@
 
 ***
 
-** Why MVVM ? **
+**Why MVVM ?**
 -  MVVM is the steps towards future of apps. MVVM allows the application to be easily maintainable.
 -  MVVM allows us to break down the application in smaller components.
 
 ***
 
-** MVVM Stands For **
+**MVVM Stands For**
 M  -> Model
 V  -> View
 VM -> View Model
 
 ***
 
-** View Model vs Model **
+**View Model vs Model**
 - View Model: 
       1. View Model is simply providing some data on which you can perform some kind of validations. 
       2. View Model simply provide a data to UI end taken data from UI
@@ -28,4 +28,6 @@ VM -> View Model
 
 ***
 
-Communication Diagram
+**Communication Diagram**
+
+![MVVM Flow](https://github.com/solutelabs/MVVMGenericsiOS/blob/master/MVVMFlow.png)
